@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhao Zhang"
-description              : "xxx. "
+description              : # "xxx. "
 repository               : "Yuhao Zhang/yuhaozhang-tju.github.io"
 google_scholar_stats_use_cdn : true
 
