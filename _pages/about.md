@@ -39,19 +39,16 @@ I am currently an Associate Researcher with the College of Intelligence and Comp
 <p><br></p>
 
 
-<ul>
-  <li><p>Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs.[<a href="">PDF</a>]</p> 
-  <p>Qing Wang, Jiwu Shu, Jing Wang, <b>Yuhao Zhang</b>.</p>
-  <p>The 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25), 2025, <b>CCF-A</b>.
-  </li>
-</ul>
 
-<ul>
-  <li><p>Deft: A Scalable Tree Index for Disaggregated Memory.[<a href="">PDF</a>]</p> 
-  <p>Jing Wang, Qing Wang, <b>Yuhao Zhang</b>, Jiwu Shu.</p>
-  <p>The 20th European Conference on Computer Systems (Eurosys'25), 2025, <b>CCF-A</b>.
-  </li>
-</ul>
+- Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs.[<a href="">PDF</a>]
+- Qing Wang, Jiwu Shu, Jing Wang, <b>Yuhao Zhang</b>.
+- The 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25), 2025, <b>CCF-A</b>.
+
+
+- Deft: A Scalable Tree Index for Disaggregated Memory.[<a href="">PDF</a>]
+- Jing Wang, Qing Wang, <b>Yuhao Zhang</b>, Jiwu Shu.
+- The 20th European Conference on Computer Systems (Eurosys'25), 2025, <b>CCF-A</b>.
+
 
 
 <ul>
