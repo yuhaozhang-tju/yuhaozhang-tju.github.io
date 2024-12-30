@@ -33,18 +33,17 @@ I am currently an Associate Researcher with the College of Intelligence and Comp
 <!-- <ul>
 </ul> -->
 
-<p><br></p>
+<br>
 <p>Check my full publication list on <a href="https://scholar.google.com/citations?user=KEvXHFIAAAAJ&hl=zh-CN">google scholar</a>.</p>
 
 
-
-<p><br></p>
+<br>
 - Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs.[<a href="">PDF</a>] <br>
 Qing Wang, Jiwu Shu, Jing Wang, <b>Yuhao Zhang</b>. <br>
 The 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25), 2025, <b>CCF-A</b>.
 
 
-<p><br></p>
+<br>
 - Deft: A Scalable Tree Index for Disaggregated Memory.[<a href="">PDF</a>] <br>
 Jing Wang, Qing Wang, <b>Yuhao Zhang</b>, Jiwu Shu. <br>
 The 20th European Conference on Computer Systems (Eurosys'25), 2025, <b>CCF-A</b>.
