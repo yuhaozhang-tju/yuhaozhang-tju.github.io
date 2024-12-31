@@ -104,7 +104,7 @@ IEEE Transactionson Computer-Aided Design of Integrated Circuits And System (TCA
 <br>
 
 - PattPIM: A Practical ReRAM-Based DNN Accelerator by Reusing Weight Pattern Repetitions.[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218638">PDF</a>]<br>
-<br><b>Yuhao Zhang</b>, Zhiping Jia, Yungang Pan, Hongchao Du, Zhaoyan Shen, Mengying Zhao, Zili Shao.<br>
+<b>Yuhao Zhang</b>, Zhiping Jia, Yungang Pan, Hongchao Du, Zhaoyan Shen, Mengying Zhao, Zili Shao.<br>
 Design Automation Conference (DAC'20), 2020, <b>CCF-A</b>.
 <br>
 
