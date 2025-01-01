@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  #name             : #"Yuhao Zhang"
+  name             : "Yuhao Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  #bio              : #"Yuhao Zhang"
+  bio              : "Yuhao Zhang"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KEvXHFIAAAAJ&hl=zh-CN"
-  email            : "yuhaopaul@163.com"
+  email            : "yuhaozhang@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
