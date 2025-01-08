@@ -32,12 +32,12 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 <p>Storage system:</p>
 -  Distributed Storage System with Fast/Smart CXL/Network Devices (e.g., RDMA/Smart NIC). <br>
--  Near Data Processing (i.e., Processing-in-memory and Computing-in-Storage) with Emerging Devices (e.g., DIMM PIM Modules and Smart SSD).
+-  Near Data Processing System (i.e., Processing-in-memory and Computing-in-Storage) with Emerging Devices (e.g., DIMM PIM Modules and Smart SSD).
 
 
 <p>AI system:</p>
-- Task Scheduling and Memory/Storage Management for Large Scale AI Models.<br>
-- High Performance Networking for Large Scale AI Models.
+- Task Scheduling and Memory/Storage Management System for Large Scale AI Models.<br>
+- High Performance Networking System for Large Scale AI Models.
 
 
 # 📝 Publications 
