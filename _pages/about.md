@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Researcher with the <a href="https://www.tju.edu.cn">College of Intelligence and Computing</a>, <a href="https://www.tju.edu.cn">Tianjin University</a>, Tianjin, China. And I am a member of TANK Lab, led by <a href="https://cic.tju.edu.cn/faculty/likeqiu/index.html">Prof.Keqiu Li</a>. From 2022 to 2024, I was a Postdoctoral Researcher in the <a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group</a> (advised by <a href="https://storage.cs.tsinghua.edu.cn/~jiwu-shu/">Prof.Jiwu Shu</a> and <a href="https://storage.cs.tsinghua.edu.cn/~lu/">Youyou Lu)</a>, Department of Computer Science and Technology, Tsinghua University, Beijing, China. I received the PhD degree from the <a href="https://www.cs.sdu.edu.cn">School of Computer Science and Technology, Shandong University</a>, Qingdao, China, in June 2022. My research interest includes storage system and AI system.
+I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">College of Intelligence and Computing</a>, <a href="https://www.tju.edu.cn">Tianjin University</a>, Tianjin, China. And I am a member of TANK Lab, led by <a href="https://cic.tju.edu.cn/faculty/likeqiu/index.html">Prof.Keqiu Li</a>. From 2022 to 2024, I was a Postdoctoral Researcher in the <a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group</a> (advised by <a href="https://storage.cs.tsinghua.edu.cn/~jiwu-shu/">Prof.Jiwu Shu</a> and <a href="https://storage.cs.tsinghua.edu.cn/~lu/">Youyou Lu)</a>, Department of Computer Science and Technology, Tsinghua University, Beijing, China. I received the PhD degree from the School of Computer Science and Technology, Shandong University, Qingdao, China, in June 2022. My research interest includes storage system and AI system.
 
 
 # 🔥 News
@@ -28,15 +28,15 @@ I am currently an Associate Researcher with the <a href="https://www.tju.edu.cn"
 
 
 
-# ![alt text](image-2.png) Research Topics
+# 💬 Research Topics
 
 <p>Storage system:</p>
--Distributed Storage System with Fast/Smart CXL/Network Devices (e.g., RDMA/Smart NIC). 
+-Distributed Storage System with Fast/Smart CXL/Network Devices (e.g., RDMA/Smart NIC). <br>
 -Near Data Processing (i.e., Processing-in-memory and Computing-in-Storage) with Emerging Devices (e.g., DIMM PIM Modules and Smart SSD).
 
 
 <p>AI system:</p>
--Task Scheduling and Memory/Storage Management for Large Scale AI Models.
+-Task Scheduling and Memory/Storage Management for Large Scale AI Models.<br>
 -High Performance Networking for Large Scale AI Models.
 
 
