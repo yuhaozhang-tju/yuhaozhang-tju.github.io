@@ -26,7 +26,8 @@ author:
   bio              : "Tianjin University"
   location         : "Tianjin, China"
   email            : "yuhaozhang@tju.edu.cn"
-  location         : "yuhaozhang@tju.edu.cn"
+  bio              : "yuhaozhang@tju.edu.cn"
+  #location         : "yuhaozhang@tju.edu.cn"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KEvXHFIAAAAJ&hl=zh-CN"
