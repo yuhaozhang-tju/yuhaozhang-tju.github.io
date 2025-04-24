@@ -21,7 +21,7 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 
 # 🔥 News
-- 🎉*2025.03*: &nbsp; Our paper entitled “Stripeless Erasure Coding" has been accepted by OSDI'25.
+- 🎉*2025.03*: &nbsp; Our paper entitled “Stripeless Data Placement for Erasure-Coded In-Memory Storage" has been accepted by OSDI'25.
 - 🎉*2024.07*: &nbsp; Our paper entitled “Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs" has been accepted by NSDI'25. 
 - 🎉*2024.07*: &nbsp; Our paper entitled “Deft: A Scalable Tree Index for Disaggregated Memory" has been accepted by Eurosys'25.
 - 🎉*2024.07*: &nbsp; Our paper entitled “Ares-Flash: Efficient Parallel Integer Arithmetic Operations Using NAND Flash Memory" has been accepted by MICRO'24.
