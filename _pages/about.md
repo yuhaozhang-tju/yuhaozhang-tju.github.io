@@ -48,7 +48,7 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 <p>Check my full publication list on <a href="https://scholar.google.com/citations?user=KEvXHFIAAAAJ&hl=zh-CN">google scholar</a>.</p>
 
-- Stripeless Erasure Coding.[<a href="">PDF</a>] <br>
+- Stripeless Data Placement for Erasure-Coded In-Memory Storage.[<a href="">PDF</a>] <br>
 Jian Gao, Jiwu Shu, Bin Yan, <b>Yuhao Zhang</b>, Keji Huang. <br>
 The 19nd USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025, <b>CCF-A</b>.
 <br>
