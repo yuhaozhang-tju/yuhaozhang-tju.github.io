@@ -51,7 +51,7 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 - μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs.[<a href="">PDF</a>] <br>
 Wenhao Huang, Zhaolin Duan, Laiping Zhao, <b>Yuhao Zhang</b>, Yanjie Wang, Yiming Li, Yihan Wang, Yichi Chen, Zhihang Tang, Kang Chen, Deze Zeng, Wenxin Li, Keqiu Li. <br>
-The 19nd USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025, <b>CCF-A</b>.
+The 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA'26), 2026, <b>CCF-A</b>.
 <br>
 
 - Stripeless Data Placement for Erasure-Coded In-Memory Storage.[<a href="https://www.usenix.org/system/files/osdi25-gao.pdf">PDF</a>] <br>
