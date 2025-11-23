@@ -21,6 +21,7 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 
 # 🔥 News
+- 🎉*2025.08*: &nbsp; Our paper entitled “μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs" has been accepted by HPCA'26.
 - 🎉*2025.03*: &nbsp; Our paper entitled “Stripeless Data Placement for Erasure-Coded In-Memory Storage" has been accepted by OSDI'25.
 - 🎉*2024.07*: &nbsp; Our paper entitled “Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs" has been accepted by NSDI'25. 
 - 🎉*2024.07*: &nbsp; Our paper entitled “Deft: A Scalable Tree Index for Disaggregated Memory" has been accepted by Eurosys'25.
@@ -48,27 +49,32 @@ I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">
 
 <p>Check my full publication list on <a href="https://scholar.google.com/citations?user=KEvXHFIAAAAJ&hl=zh-CN">google scholar</a>.</p>
 
-- Stripeless Data Placement for Erasure-Coded In-Memory Storage.[<a href="">PDF</a>] <br>
+- μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs.[<a href="">PDF</a>] <br>
+Wenhao Huang, Zhaolin Duan, Laiping Zhao, <b>Yuhao Zhang</b>, Yanjie Wang, Yiming Li, Yihan Wang, Yichi Chen, Zhihang Tang, Kang Chen, Deze Zeng, Wenxin Li, Keqiu Li. <br>
+The 19nd USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025, <b>CCF-A</b>.
+<br>
+
+- Stripeless Data Placement for Erasure-Coded In-Memory Storage.[<a href="https://www.usenix.org/system/files/osdi25-gao.pdf">PDF</a>] <br>
 Jian Gao, Jiwu Shu, Bin Yan, <b>Yuhao Zhang</b>, Keji Huang. <br>
 The 19nd USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025, <b>CCF-A</b>.
 <br>
 
-- Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs.[<a href="">PDF</a>] <br>
+- Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs.[<a href="https://www.usenix.org/system/files/nsdi25-wang-qing.pdf">PDF</a>] <br>
 Qing Wang, Jiwu Shu, Jing Wang, <b>Yuhao Zhang</b>. <br>
 The 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25), 2025, <b>CCF-A</b>.
 <br>
 
-- Deft: A Scalable Tree Index for Disaggregated Memory.[<a href="">PDF</a>] <br>
+- Deft: A Scalable Tree Index for Disaggregated Memory.[<a href="https://dl.acm.org/doi/pdf/10.1145/3689031.3696062">PDF</a>] <br>
 Jing Wang, Qing Wang, <b>Yuhao Zhang</b>, Jiwu Shu. <br>
 The 20th European Conference on Computer Systems (Eurosys'25), 2025, <b>CCF-A</b>.
 <br>
 
-- Ares-Flash: Efficient Parallel Integer Arithmetic Operations Using NAND Flash Memory.[<a href="">PDF</a>]<br>
+- Ares-Flash: Efficient Parallel Integer Arithmetic Operations Using NAND Flash Memory.[<a href="https://dl.acm.org/doi/pdf/10.1109/MICRO61859.2024.00109">PDF</a>]<br>
 Jian Chen, Congming Gao, Youyou Lu, <b>Yuhao Zhang</b>, Jiwu Shu.<br>
 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'24), 2024, <b>CCF-A</b>.
 <br>
 
-- Full Lifecycle Data Analysis on a Large-scale and Leadership Supercomputer: What Can We Learn from It?[<a href="">PDF</a>]<br>
+- Full Lifecycle Data Analysis on a Large-scale and Leadership Supercomputer: What Can We Learn from It?[<a href="https://www.usenix.org/system/files/atc24-yang.pdf">PDF</a>]<br>
 Bin Yang, Hao Wei, Wenhao Zhu, <b>Yuhao Zhang</b>, Weiguo Liu, Wei Xue.<br>
 USENIX Annual Technical Conference (USENIX ATC'24), 2024, <b>CCF-A</b>.
 <br>
