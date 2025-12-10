@@ -19,6 +19,10 @@ redirect_from:
 
 I am currently an Associate Researcher with the <a href="http://cic.tju.edu.cn">College of Intelligence and Computing</a>, <a href="https://www.tju.edu.cn">Tianjin University</a>, Tianjin, China. And I am a member of TANK Lab, led by <a href="https://cic.tju.edu.cn/faculty/likeqiu/index.html">Prof.Keqiu Li</a>. From 2022 to 2024, I was a Postdoctoral Researcher in the <a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group</a> (advised by <a href="https://storage.cs.tsinghua.edu.cn/~jiwu-shu/">Prof.Jiwu Shu</a> and <a href="https://storage.cs.tsinghua.edu.cn/~lu/">Youyou Lu)</a>, Department of Computer Science and Technology, Tsinghua University, Beijing, China. I received the PhD degree from the School of Computer Science and Technology, Shandong University, Qingdao, China, in June 2022. My research interest includes storage system and AI system.
 
+<p style="color: red;"> We are seeking highly self-motivated PhD/Master/undergraduate students with strong programming skills to work on storage systems, operating systems, and AI systems. If you’re interested, feel free to reach out with your CV.</p>
+
+
+
 
 # 🔥 News
 - 🎉*2025.08*: &nbsp; Our paper entitled “μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs" has been accepted by HPCA'26.
